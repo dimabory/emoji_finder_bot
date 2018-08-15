@@ -1,0 +1,8 @@
+{
+  "name": "emoji_finder_bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
