@@ -1,6 +1,9 @@
 {
   "name": "emoji_finder_bot",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "dotenv": "^6.0.0",
     "node-telegram-bot-api": "^0.30.0"
