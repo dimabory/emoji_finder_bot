@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "dotenv": "^6.0.0",
+    "emojilib": "^2.3.0",
     "node-telegram-bot-api": "^0.30.0"
   }
 }
