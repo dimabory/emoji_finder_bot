@@ -6,7 +6,7 @@
 Follow https://t.me/emoji_finder_bot 🐹
 
 ## Usage
-Juts open the bot and try to type something! It's pretty simple and fun.
+Just open the bot and try to type something! It's pretty simple and fun.
 
 ## License
 
